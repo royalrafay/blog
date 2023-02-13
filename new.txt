@@ -1,0 +1,13 @@
+1) /     --- flipcart home (
+           one button inside form
+           when user clicks on login button it should redirect to login page
+
+2) /login  ---enter mobile number 
+           ----password
+           ---- button (sign in) /dashboard
+mobile number 1234567899 password teki@123
+----dashbord page wellcome to flipcart junaid
+login fail ---- error.html wrong password
+
+html file should contain images and css 
+create new project proj1			
